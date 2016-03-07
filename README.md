@@ -24,7 +24,7 @@ All rights reserved.
 ## - Jingle Bells with Arduino
 ######[Blog Post](http://blog.giacomocerquone.com/jingle-bell-with-an-arduino-and-a-buzzer/)<br/>
 I wanted to replace our broken little Santa Claus shaped box that used to play Jingle Bells through a Buzzer with Arduino! This is the result:
-![Arduino playing Jingle Bells](http://blog.giacomocerquone.com/wp-content/uploads/2015/12/arduino-jingle-bell-completed.jpg?4560df)
+![Arduino playing Jingle Bells](http://blog.giacomocerquone.com/jingle-bell-with-an-arduino-and-a-buzzer/arduino-jingle-bell-completed.jpg)
 
 #### What I used
 1. Arduino Uno
@@ -33,7 +33,7 @@ I wanted to replace our broken little Santa Claus shaped box that used to play J
 4. Case, wires and a little breadbord
 
 #### Wiring
-![Arduino Jingle Bells wiring](http://blog.giacomocerquone.com/wp-content/uploads/2015/12/Arduino-Jingle-Bell-wiring.jpg?4560df)
+![Arduino Jingle Bells wiring](http://blog.giacomocerquone.com/jingle-bell-with-an-arduino-and-a-buzzer/Arduino-Jingle-Bell-wiring.jpg)
 
 #### Ideas to let others improve it
 1. Using a potentiometer to adjust the volume (I had only a 50K potentiometer and it's too much for the buzzer)
